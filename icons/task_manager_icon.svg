@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <!-- Background Circle -->
+    <circle cx="32" cy="32" r="30" fill="#2A3F54"/>
+    
+    <!-- Python Logo -->
+    <path d="M32 12c-8 0-7.5 3.5-7.5 3.5v3.5h7.7v1H20.5s-5.5-.5-5.5 8 4.8 8.3 4.8 8.3h2.9v-4s-.2-4.8 4.7-4.8h8.1s4.5.1 4.5-4.4v-7.4S40.7 12 32 12zm-4.2 2.5c.8 0 1.4.6 1.4 1.4s-.6 1.4-1.4 1.4-1.4-.6-1.4-1.4.6-1.4 1.4-1.4z" fill="#3776AB"/>
+    
+    <path d="M32 52c8 0 7.5-3.5 7.5-3.5v-3.5h-7.7v-1h11.7s5.5.5 5.5-8-4.8-8.3-4.8-8.3h-2.9v4s.2 4.8-4.7 4.8h-8.1s-4.5-.1-4.5 4.4v7.4S23.3 52 32 52zm4.2-2.5c-.8 0-1.4-.6-1.4-1.4s.6-1.4 1.4-1.4 1.4.6 1.4 1.4-.6 1.4-1.4 1.4z" fill="#FFD43B"/>
+    
+    <!-- Lightning Bolt -->
+    <path d="M39 20L26 32h8l-3 12 13-12h-8z" fill="#FFD700" stroke="#FFA500" stroke-width="1"/>
+    
+    <!-- Glow Effect -->
+    <circle cx="32" cy="32" r="28" fill="none" stroke="#4682B4" stroke-width="2" opacity="0.3"/>
+</svg>
